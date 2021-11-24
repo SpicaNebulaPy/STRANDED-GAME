@@ -14,7 +14,7 @@ What is "in scope" for Version 1.0 -- what's the simplest possible version of yo
 The simpliest version with python only would be a quiz like game where as the simpliest with kivy will be a simple shooter game with 5 levels once completed you win. end of each level you recive a engine part.
 
 ## Libraries / Other Technology Needed
-
+Kivy 
 Kivy will be needed to creat UI 
 
 Which Python libraries will you use? Do they have good documentation / tutorials?
